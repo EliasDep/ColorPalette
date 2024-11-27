@@ -1,7 +1,7 @@
 import styled from "styled-components"
 import { BrowserRouter, Routes, Route } from "react-router-dom"
-import Palette from "./Components/Palette.jsx"
-import Palettes from './Components/Palettes.jsx'
+import Palette from "./components/Palette.jsx"
+import Palettes from './components/Palettes.jsx'
 
 
 function App() {
